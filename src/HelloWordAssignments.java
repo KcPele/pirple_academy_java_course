@@ -1,5 +1,5 @@
 public class HelloWordAssignments {
-    public static void main(String[] args) {
+    public static void main(StringInJava[] args) {
         System.out.println("Hello World");
     }
 }
