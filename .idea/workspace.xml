@@ -2,21 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8841e1a6-a612-4be6-83f0-deee8b8e6f31" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/pirple.comAcademy/Characters.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/pirple.comAcademy/META-INF/pirple.comAcademy.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/pirple.comAcademy/StringInJava.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Characters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringAssignment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringInJava.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/pirple.comAcademy/HelloWordAssignments.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pirple.comAcademy/HelloWordAssignments.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/pirple.comAcademy/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pirple.comAcademy/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/pirple.comAcademy/TheMathLib.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pirple.comAcademy/TheMathLib.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/pirple.comAcademy/helloWorld.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pirple.comAcademy/helloWorld.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HelloWordAssignments.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HelloWordAssignments.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TheMathLib.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TheMathLib.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/helloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/helloWorld.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +31,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="Application.StringAssignment">
+  <component name="RunManager" selected="Application.ComplexConditionals">
     <configuration name="Characters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Characters" />
       <module name="pirple.comAcademy" />
@@ -53,8 +39,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+    <configuration name="ComplexConditionals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ComplexConditionals" />
+      <module name="pirple.comAcademy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConditionalStatements2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ConditionalStatements2" />
       <module name="pirple.comAcademy" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -74,20 +67,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TheMathLib" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TheMathLib" />
-      <module name="pirple.comAcademy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ComplexConditionals" />
+        <item itemvalue="Application.ConditionalStatements2" />
         <item itemvalue="Application.StringAssignment" />
         <item itemvalue="Application.StringInJava" />
         <item itemvalue="Application.Characters" />
-        <item itemvalue="Application.TheMathLib" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -141,45 +127,49 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="0" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1618876326130" />
-    <state width="610" height="227" key="GridCell.Tab.0.bottom" timestamp="1619497684666">
+    <state width="610" height="182" key="GridCell.Tab.0.bottom" timestamp="1620013708506">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="610" height="227" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1619497684666" />
-    <state width="610" height="227" key="GridCell.Tab.0.center" timestamp="1619497684665">
+    <state width="610" height="182" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1620013708506" />
+    <state width="610" height="182" key="GridCell.Tab.0.center" timestamp="1620013708506">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="610" height="227" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1619497684665" />
-    <state width="610" height="227" key="GridCell.Tab.0.left" timestamp="1619497684665">
+    <state width="610" height="182" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1620013708506" />
+    <state width="610" height="182" key="GridCell.Tab.0.left" timestamp="1620013708506">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="610" height="227" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1619497684665" />
-    <state width="610" height="227" key="GridCell.Tab.0.right" timestamp="1619497684666">
+    <state width="610" height="182" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1620013708506" />
+    <state width="610" height="182" key="GridCell.Tab.0.right" timestamp="1620013708506">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="610" height="227" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1619497684666" />
-    <state width="610" height="227" key="GridCell.Tab.1.bottom" timestamp="1619495553066">
+    <state width="610" height="182" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1620013708506" />
+    <state width="610" height="227" key="GridCell.Tab.1.bottom" timestamp="1620012010428">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="610" height="227" key="GridCell.Tab.1.bottom/0.0.1366.768@0.0.1366.768" timestamp="1619495553066" />
-    <state width="610" height="227" key="GridCell.Tab.1.center" timestamp="1619495553066">
+    <state width="610" height="227" key="GridCell.Tab.1.bottom/0.0.1366.768@0.0.1366.768" timestamp="1620012010428" />
+    <state width="610" height="227" key="GridCell.Tab.1.center" timestamp="1620012010427">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="610" height="227" key="GridCell.Tab.1.center/0.0.1366.768@0.0.1366.768" timestamp="1619495553066" />
-    <state width="610" height="227" key="GridCell.Tab.1.left" timestamp="1619495553066">
+    <state width="610" height="227" key="GridCell.Tab.1.center/0.0.1366.768@0.0.1366.768" timestamp="1620012010427" />
+    <state width="610" height="227" key="GridCell.Tab.1.left" timestamp="1620012010427">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="610" height="227" key="GridCell.Tab.1.left/0.0.1366.768@0.0.1366.768" timestamp="1619495553066" />
-    <state width="610" height="227" key="GridCell.Tab.1.right" timestamp="1619495553066">
+    <state width="610" height="227" key="GridCell.Tab.1.left/0.0.1366.768@0.0.1366.768" timestamp="1620012010427" />
+    <state width="610" height="227" key="GridCell.Tab.1.right" timestamp="1620012010428">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="610" height="227" key="GridCell.Tab.1.right/0.0.1366.768@0.0.1366.768" timestamp="1619495553066" />
+    <state width="610" height="227" key="GridCell.Tab.1.right/0.0.1366.768@0.0.1366.768" timestamp="1620012010428" />
     <state x="213" y="206" key="com.intellij.ide.util.TipDialog" timestamp="1619493702338">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="213" y="206" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1619493702338" />
-    <state x="0" y="3" key="new project wizard" timestamp="1618570465115">
+    <state x="0" y="3" key="new project wizard" timestamp="1619498159606">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="0" y="3" key="new project wizard/0.0.1366.768@0.0.1366.768" timestamp="1618570465115" />
+    <state x="0" y="3" key="new project wizard/0.0.1366.768@0.0.1366.768" timestamp="1619498159606" />
+    <state x="-9" y="167" width="672" height="677" key="run.anything.popup" timestamp="1620013228898">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="-9" y="167" width="672" height="677" key="run.anything.popup/0.0.1366.768@0.0.1366.768" timestamp="1620013228898" />
   </component>
 </project>
