@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8841e1a6-a612-4be6-83f0-deee8b8e6f31" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Switcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Switcher.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,14 +32,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="Application.ComplexConditionals">
-    <configuration name="Characters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Characters" />
-      <module name="pirple.comAcademy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ForLoop">
     <configuration name="ComplexConditionals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ComplexConditionals" />
       <module name="pirple.comAcademy" />
@@ -53,15 +47,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringAssignment" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringAssignment" />
+    <configuration name="ForLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ForLoop" />
       <module name="pirple.comAcademy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringInJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringInJava" />
+    <configuration name="IntroToLoops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IntroToLoops" />
+      <module name="pirple.comAcademy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Switcher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Switcher" />
       <module name="pirple.comAcademy" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -69,11 +70,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ForLoop" />
+        <item itemvalue="Application.IntroToLoops" />
+        <item itemvalue="Application.Switcher" />
         <item itemvalue="Application.ComplexConditionals" />
         <item itemvalue="Application.ConditionalStatements2" />
-        <item itemvalue="Application.StringAssignment" />
-        <item itemvalue="Application.StringInJava" />
-        <item itemvalue="Application.Characters" />
       </list>
     </recent_temporary>
   </component>
@@ -127,42 +128,42 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="0" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1618876326130" />
-    <state width="610" height="182" key="GridCell.Tab.0.bottom" timestamp="1620013708506">
+    <state width="610" height="182" key="GridCell.Tab.0.bottom" timestamp="1620274521588">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="610" height="182" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1620013708506" />
-    <state width="610" height="182" key="GridCell.Tab.0.center" timestamp="1620013708506">
+    <state width="610" height="182" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1620274521588" />
+    <state width="610" height="182" key="GridCell.Tab.0.center" timestamp="1620274521588">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="610" height="182" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1620013708506" />
-    <state width="610" height="182" key="GridCell.Tab.0.left" timestamp="1620013708506">
+    <state width="610" height="182" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1620274521588" />
+    <state width="610" height="182" key="GridCell.Tab.0.left" timestamp="1620274521588">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="610" height="182" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1620013708506" />
-    <state width="610" height="182" key="GridCell.Tab.0.right" timestamp="1620013708506">
+    <state width="610" height="182" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1620274521588" />
+    <state width="610" height="182" key="GridCell.Tab.0.right" timestamp="1620274521588">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="610" height="182" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1620013708506" />
-    <state width="610" height="227" key="GridCell.Tab.1.bottom" timestamp="1620012010428">
+    <state width="610" height="182" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1620274521588" />
+    <state width="610" height="227" key="GridCell.Tab.1.bottom" timestamp="1620014831042">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="610" height="227" key="GridCell.Tab.1.bottom/0.0.1366.768@0.0.1366.768" timestamp="1620012010428" />
-    <state width="610" height="227" key="GridCell.Tab.1.center" timestamp="1620012010427">
+    <state width="610" height="227" key="GridCell.Tab.1.bottom/0.0.1366.768@0.0.1366.768" timestamp="1620014831042" />
+    <state width="610" height="227" key="GridCell.Tab.1.center" timestamp="1620014831042">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="610" height="227" key="GridCell.Tab.1.center/0.0.1366.768@0.0.1366.768" timestamp="1620012010427" />
-    <state width="610" height="227" key="GridCell.Tab.1.left" timestamp="1620012010427">
+    <state width="610" height="227" key="GridCell.Tab.1.center/0.0.1366.768@0.0.1366.768" timestamp="1620014831042" />
+    <state width="610" height="227" key="GridCell.Tab.1.left" timestamp="1620014831041">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="610" height="227" key="GridCell.Tab.1.left/0.0.1366.768@0.0.1366.768" timestamp="1620012010427" />
-    <state width="610" height="227" key="GridCell.Tab.1.right" timestamp="1620012010428">
+    <state width="610" height="227" key="GridCell.Tab.1.left/0.0.1366.768@0.0.1366.768" timestamp="1620014831041" />
+    <state width="610" height="227" key="GridCell.Tab.1.right" timestamp="1620014831042">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="610" height="227" key="GridCell.Tab.1.right/0.0.1366.768@0.0.1366.768" timestamp="1620012010428" />
-    <state x="213" y="206" key="com.intellij.ide.util.TipDialog" timestamp="1619493702338">
+    <state width="610" height="227" key="GridCell.Tab.1.right/0.0.1366.768@0.0.1366.768" timestamp="1620014831042" />
+    <state x="213" y="206" key="com.intellij.ide.util.TipDialog" timestamp="1620272225137">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="213" y="206" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1619493702338" />
+    <state x="213" y="206" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1620272225137" />
     <state x="0" y="3" key="new project wizard" timestamp="1619498159606">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
