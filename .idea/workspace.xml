@@ -31,9 +31,9 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="Application.Maps">
-    <configuration name="Alphabet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Alphabet" />
+  <component name="RunManager" selected="Application.AdvancedMethods">
+    <configuration name="AdvancedMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AdvancedMethods" />
       <module name="pirple.comAcademy" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -53,13 +53,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ForLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ForLoop" />
-      <module name="pirple.comAcademy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Maps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Maps" />
       <module name="pirple.comAcademy" />
@@ -67,13 +60,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TemperatureConverter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TemperatureConverter" />
+      <module name="pirple.comAcademy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AdvancedMethods" />
+        <item itemvalue="Application.TemperatureConverter" />
         <item itemvalue="Application.Maps" />
         <item itemvalue="Application.Echo" />
         <item itemvalue="Application.ChessBoard" />
-        <item itemvalue="Application.Alphabet" />
-        <item itemvalue="Application.ForLoop" />
       </list>
     </recent_temporary>
   </component>
@@ -127,22 +127,22 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="0" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1618876326130" />
-    <state width="610" height="182" key="GridCell.Tab.0.bottom" timestamp="1620879157233">
+    <state width="610" height="182" key="GridCell.Tab.0.bottom" timestamp="1621311458095">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="610" height="182" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1620879157233" />
-    <state width="610" height="182" key="GridCell.Tab.0.center" timestamp="1620879157233">
+    <state width="610" height="182" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1621311458095" />
+    <state width="610" height="182" key="GridCell.Tab.0.center" timestamp="1621311458094">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="610" height="182" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1620879157233" />
-    <state width="610" height="182" key="GridCell.Tab.0.left" timestamp="1620879157232">
+    <state width="610" height="182" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1621311458094" />
+    <state width="610" height="182" key="GridCell.Tab.0.left" timestamp="1621311458094">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="610" height="182" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1620879157232" />
-    <state width="610" height="182" key="GridCell.Tab.0.right" timestamp="1620879157233">
+    <state width="610" height="182" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1621311458094" />
+    <state width="610" height="182" key="GridCell.Tab.0.right" timestamp="1621311458095">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="610" height="182" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1620879157233" />
+    <state width="610" height="182" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1621311458095" />
     <state width="610" height="227" key="GridCell.Tab.1.bottom" timestamp="1620014831042">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
